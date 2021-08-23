@@ -1,4 +1,4 @@
-# Unit-7-Homework
+# Looking for Suspicious Transactions
 # Fraud_Detection_SQL
 
 ![Credit card fraudster](Images/credit_card_fraudster.jpg)
